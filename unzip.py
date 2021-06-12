@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import sys, argparse
+import argparse
 from zipfile import PyZipFile
 
 def error():
